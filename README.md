@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**JUDE122-MAX/jude122-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on LLM implementation
-- 🌱 I’m currently learning the workings of LLMs, RAG with LLM and Fine tuning LLMs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything software development and AI research 😅😅😅
-- 📫 How to reach me: mail: [**Mail**](mailto:judechinedu122@gmail.com), [**Whatsapp**](https://wa.me/+2349048314977?text=urlencodedtext)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
-
 ### Hi there! 👋 I'm Jude Etuka
 
 I'm Jude Etuka, a passionate software developer and AI researcher with a relentless curiosity for exploring new technologies and pushing the boundaries of what software can achieve. My journey in tech has led me to specialize in both **Software Development** and **AI Research**, where I’m currently focused on leveraging the power of **Large Language Models (LLMs)** to create innovative, intelligent solutions.
@@ -76,7 +59,7 @@ I bring a diverse set of skills to the table, with expertise in:
 - **Cross-Platform Development:** Utilizing **Flutter** and **Kivy/KivyMD** to create applications that run smoothly across multiple platforms.
 - **Web Development:** Crafting dynamic and responsive websites using frameworks like **Django**, **Flask**, **ReactJS**, and **NestJS**.
 - **Backend Development:** Designing and implementing robust APIs that power modern applications.
-- **Containerization & Databases:** Proficient in **Docker** for containerization and **PostgreSQL** for managing complex databases.
+- **Containerization & Databases:** Proficient in **Docker** for containerization and **PostgreSQL** for database.
 
 ### ⚡ Fun Fact
 
