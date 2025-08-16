@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/judeetuka"><img src="https://api.daily.dev/devcards/v2/bXAfiQhwT7bn07gWi4gZc.png?type=wide&r=8pt" width="652" alt="Jude Etuka's Dev Card"/></a>
+
 ### Hi there! 👋 I'm Jude Etuka
 
 I'm Jude Etuka, a passionate software developer and AI researcher with a relentless curiosity for exploring new technologies and pushing the boundaries of what software can achieve. My journey in tech has led me to specialize in both **Software Development** and **AI Research**, where I’m currently focused on leveraging the power of **Large Language Models (LLMs)** to create innovative, intelligent solutions.
